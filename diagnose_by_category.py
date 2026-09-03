@@ -7,7 +7,7 @@ known in the literature to be much subtler than Deepfakes/FaceSwap) versus
 a genuine bug affecting everything equally.
 
 Usage:
-  "C:\\Users\\Sreendihi G\\AppData\\Local\\Programs\\Python\\Python310\\python.exe" diagnose_by_category.py
+  python diagnose_by_category.py
 """
 
 import torch

@@ -5,7 +5,7 @@ number you report as your baseline, since val was used to pick the best
 checkpoint (val is "seen" in that sense) while test is fully untouched.
 
 Usage:
-  "C:\\Users\\Sreendihi G\\AppData\\Local\\Programs\\Python\\Python310\\python.exe" evaluate.py
+  python evaluate.py
 """
 
 import torch

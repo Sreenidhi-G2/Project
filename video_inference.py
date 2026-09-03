@@ -13,7 +13,7 @@ Aggregation strategy (deliberately simple as a baseline, per the plan):
     spikier per-frame scores than one that's uniformly real or fake)
 
 Usage:
-  "C:\\Users\\Sreendihi G\\AppData\\Local\\Programs\\Python\\Python310\\python.exe" video_inference.py "path\\to\\video.mp4"
+  python video_inference.py "path\\to\\video.mp4"
 """
 
 import sys

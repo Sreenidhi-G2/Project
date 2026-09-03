@@ -15,8 +15,8 @@ either (a) genuine non-generalization, or (b) input-distribution mismatch
 over-interpreting a single number.
 
 Usage:
-  "C:\\Users\\Sreendihi G\\AppData\\Local\\Programs\\Python\\Python310\\python.exe" -m pip install datasets
-  "C:\\Users\\Sreendihi G\\AppData\\Local\\Programs\\Python\\Python310\\python.exe" cross_generator_eval.py
+  python -m pip install datasets
+  python cross_generator_eval.py
 """
 
 import torch

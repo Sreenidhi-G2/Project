@@ -13,7 +13,7 @@ specialists, not a single generalist model, matching how real-world
 fraud-detection pipelines are typically built.
 
 Usage:
-  "C:\\Users\\Sreendihi G\\AppData\\Local\\Programs\\Python\\Python310\\python.exe" video_inference_ensemble.py "path\\to\\video.mp4"
+  python video_inference_ensemble.py "path\\to\\video.mp4"
 """
 
 import sys

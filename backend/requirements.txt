@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+sqlalchemy
+pillow
+torch
+torchvision
+opencv-python
+facenet-pytorch
+timm
+albumentations
+pytorch-grad-cam
+numpy

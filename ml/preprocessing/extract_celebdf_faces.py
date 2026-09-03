@@ -11,7 +11,7 @@ List format: "<label> <relative_path>" where 1 = real, 0 = fake, e.g.:
   0 Celeb-synthesis/id1_id0_0007.mp4
 
 Usage:
-  "C:\\Users\\Sreendihi G\\AppData\\Local\\Programs\\Python\\Python310\\python.exe" extract_celebdf_faces.py
+  python extract_celebdf_faces.py
 """
 
 import os

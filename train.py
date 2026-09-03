@@ -3,7 +3,7 @@ VeriFace - Phase 2, Days 3-4
 Training script for the image deepfake classifier.
 
 Usage (Windows, from ml/training/ directory):
-  "C:\\Users\\Sreendihi G\\AppData\\Local\\Programs\\Python\\Python310\\python.exe" train.py
+  python train.py
 
 Tracks AUROC (not just accuracy - accuracy is misleading on imbalanced
 data) on the val split each epoch, saves the best checkpoint, and stops

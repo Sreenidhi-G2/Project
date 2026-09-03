@@ -15,7 +15,7 @@ What this does:
    so the same face never leaks across train/val/test.
 
 Usage (from Windows, using your Python 3.10 install):
-  "C:\\Users\\Sreendihi G\\AppData\\Local\\Programs\\Python\\Python310\\python.exe" extract_faces.py
+  python extract_faces.py
 
 Edit the CONFIG section below before running if your folder names differ.
 """

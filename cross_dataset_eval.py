@@ -22,7 +22,7 @@ extract_faces.py from Phase 1 - just point BASE_DIR/CATEGORIES at the
 Celeb-DF folder structure (Celeb-real -> real, Celeb-synthesis -> fake).
 
 Usage:
-  "C:\\Users\\Sreendihi G\\AppData\\Local\\Programs\\Python\\Python310\\python.exe" cross_dataset_eval.py
+  python cross_dataset_eval.py
 """
 
 import torch

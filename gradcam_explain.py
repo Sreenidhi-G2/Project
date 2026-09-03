@@ -6,8 +6,8 @@ natural-language reason string. This turns a bare score into something a
 fraud analyst could actually act on, rather than a black-box number.
 
 Usage:
-  "C:\\Users\\Sreendihi G\\AppData\\Local\\Programs\\Python\\Python310\\python.exe" -m pip install grad-cam
-  "C:\\Users\\Sreendihi G\\AppData\\Local\\Programs\\Python\\Python310\\python.exe" gradcam_explain.py "path\\to\\face_image.jpg"
+  python -m pip install grad-cam
+  python gradcam_explain.py "path\\to\\face_image.jpg"
 """
 
 import sys
