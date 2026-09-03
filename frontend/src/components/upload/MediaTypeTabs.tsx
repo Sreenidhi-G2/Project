@@ -1,12 +1,12 @@
 interface MediaTypeTabsProps {
-  value: "image" | "video";
-  onChange: (value: "image" | "video") => void;
+  value:  "video";
+  onChange: (value: "video") => void;
 }
 
 export function MediaTypeTabs({ value, onChange }: MediaTypeTabsProps) {
   return (
     <div className="inline-flex rounded-lg border border-white/10 bg-surface-850 p-1">
-      {(["image", "video"] as const).map((item) => (
+      {(["video"] as const).map((item) => (
         <button
           key={item}
           type="button"
