@@ -146,6 +146,3 @@ You'll need an API key for the supervisor agent (set as an environment variable,
 
 The raw video datasets (FaceForensics++, Celeb-DF) and extracted face-crop datasets are **not in this repo** — they're large, and both carry usage terms that don't allow public redistribution. They're stored separately in Google Drive: **https://drive.google.com/drive/folders/1OXvFCpYAFtl7zKF8ULPOlZtt9beYiNnp?usp=drive_link**. Model checkpoints (`ml/checkpoints/`, `ml/checkpoints_ai_v2/`) are small enough to keep in the repo directly.
 
-## Acknowledgments
-
-Built as an academic AI/ML project at BNM Institute of Technology, Bengaluru, under the guidance of Dr. Mahanthesha U.
